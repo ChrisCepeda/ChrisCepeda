@@ -11,7 +11,7 @@
 ## :computer:	 Projects 
  **:zap: Building a website: www.cepeda.se - Html, Css & JavaScript.**<br>
   **:zap: Memory Game: https://birkkensen.github.io/MemoryGame-project/ - Date & Localstorage.**<br>
-    **:zap: Quiz Game: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
+    **:zap: Quiz App: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
       **:zap: Star Wars Game - Phazer framework.**<br>
         **:zap: WeatherAPI - OpenWeather API.**<br>
   
