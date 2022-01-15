@@ -4,30 +4,19 @@
 ## :superhero_woman: About me
  **:zap:Swede/Chilean living in Stockholm.**<br>
  **:zap:Currently studying FrontEnd Development at HyperIsland.** <br>
-  **:zap:Travels, Cultures & Peoples.**<br>
-**:zap:Code, Design & Aestethics.** 
+ **:zap:Code, Design & Aestethics.** <br>
+  **:zap:Travels, Cultures & Peoples.**
 
-## :mechanical_arm: Projects 
+
+## :computer:	 Projects 
  **:zap: Building a website: www.cepeda.se - Html, Css & JavaScript.**<br>
-  **:zap: Memory - Date & Localstorage.**<br>
-    **:zap: QuizGame: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
+  **:zap: Memory Game: https://birkkensen.github.io/MemoryGame-project/ - Date & Localstorage.**<br>
+    **:zap: Quiz Game: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
       **:zap: Star Wars Game - Phazer framework.**<br>
         **:zap: WeatherAPI - OpenWeather API.**<br>
   
+## :mechanical_arm: Skills
+ **:zap: Learning blocks: Html, Css & Javascript / Frameworks Node, Phazer, React / Design Tools Figma, Typhography, Color Schemes & Layouts.**   <br> 
+ **:zap: Worked as a teacher for ten years so Team Building & Team Dynamics have been cornerstones of my work.** <br>
+  **:zap: Pedagogy and Didactics - the knowledge how we learn and what method to use for optimal learnings.** 
  
-
-
-<!--
-**ChrisCepeda/ChrisCepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
