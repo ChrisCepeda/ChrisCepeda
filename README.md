@@ -10,7 +10,7 @@
 ## :mechanical_arm: Projects 
  **:zap: Building a website: www.cepeda.se - Html, Css & JavaScript.**<br>
   **:zap: Memory - Date & Localstorage.**<br>
-    **:zap: QuizGame - Spotify API & Firebase.**<br>
+    **:zap: QuizGame: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
       **:zap: Star Wars Game - Phazer framework.**<br>
         **:zap: WeatherAPI - OpenWeather API.**<br>
   
