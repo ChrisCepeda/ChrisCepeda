@@ -16,7 +16,11 @@
         **:zap: WeatherAPI - OpenWeather API.**<br>
   
 ## :mechanical_arm: Skills
- **:zap: Learning blocks: Html, Css & Javascript / Frameworks Node, Phazer, React / Design Tools Figma, Typhography, Color Schemes & Layouts.**   <br> 
- **:zap: Worked as a teacher for ten years so Team Building & Team Dynamics have been cornerstones of my work.** <br>
-  **:zap: Pedagogy and Didactics - the knowledge how we learn and what method to use for optimal learnings.** 
- 
+ **:zap: Web Development: HTML, CSS, JavaScript / Node, Phazer, React / Firebase, API           
+ :zap: Design Tools: Figma / Typhography, Color Schemes & Layouts.            
+ :zap: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics.**
+            
+ ## :handshake: Collaborations
+  **:zap: I love any collaboration in coding, design or education with a digital twist!**<br>
+   **:email: hello@cepeda.se**
+  
