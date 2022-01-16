@@ -15,12 +15,13 @@
       **:zap: Star Wars Game - Phazer framework.**<br>
         **:zap: WeatherAPI - OpenWeather API.**<br>
   
-## :mechanical_arm: Skills
+## :mechanical_arm: Skills (beginner)
  **:zap: Web Development: HTML, CSS, JavaScript / Node, Phazer, React / Firebase, API           
  :zap: Design Tools: Figma / Typhography, Color Schemes & Layouts.            
  :zap: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics.**
             
  ## :handshake: Collaborations
-  **:zap: I love any collaboration in coding, design or education with a digital twist!**<br>
-   **:email: hello@cepeda.se**
+  **:zap: I'm super interested in any collaboration in coding, design or education with a digital twist!**<br>
+   **:email: hello@cepeda.se**<br>
+   
   
