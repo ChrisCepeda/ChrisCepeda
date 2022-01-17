@@ -12,11 +12,11 @@
  **:zap: Building a website: www.cepeda.se - Html, Css & JavaScript.**<br>
   **:zap: Memory Game: https://birkkensen.github.io/MemoryGame-project/ - Date & Localstorage.**<br>
     **:zap: Quiz App: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
-      **:zap: Star Wars Game - Phazer framework.**<br>
-        **:zap: WeatherAPI - OpenWeather API.**<br>
+      **:zap: Star Wars Game - Phaser framework.**<br>
+        **:zap: WeatherAPI - Open API.**<br>
   
 ## :mechanical_arm: Skills (beginner)
- **:zap: Web Development: HTML, CSS, JavaScript / Node, Phazer, React / Firebase, API           
+ **:zap: Web Development: HTML, CSS, JavaScript / Node.JS, Phaser, React / Firebase, API           
  :zap: Design Tools: Figma / Typhography, Color Schemes & Layouts.            
  :zap: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics.**
             
