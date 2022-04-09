@@ -16,7 +16,8 @@
         **:zap: WeatherAPI - Open API.**<br>
   
 ## :mechanical_arm: Skills 
- **:zap: Web Development: HTML, CSS, JavaScript / Node.JS, Phaser, React / Firebase, API. (basics)          
+ **:zap: Web Development: ![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) 
+HTML, CSS, JavaScript / Node.JS, Phaser, React / Firebase, API. (basics)          
  :zap: Design Tools: Figma / Typhography, Color Schemes & Layouts / Adobe PS, Adobe AI. (intermediate)        
  :zap: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics. (advanced)**
             
