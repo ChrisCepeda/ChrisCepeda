@@ -9,7 +9,9 @@
 
 
 ## :computer:	 Projects 
- **:zap: Building a website: www.cepeda.se - Html, Css & JavaScript.**<br>
+
+ **:zap: Building a portfolio: www.cepeda.se - Html, CSS & JavaScript, Firebase, API.**<br>
+ **:zap: Pottery Shop - MERN stack.**<br>
   **:zap: Memory Game: https://github.com/ChrisCepeda/MemoryGame-project - Date & Localstorage.**<br>
     **:zap: Quiz App: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
       **:zap: Star Wars Game - Phaser framework.**<br>
