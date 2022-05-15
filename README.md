@@ -10,17 +10,18 @@
 
 ## :computer:	 Projects 
 
- **:zap: Building a portfolio: www.cepeda.se - Html, CSS & JavaScript, Firebase, API, Wordpress & Xampp**<br>
- **:zap: Pottery Shop - MongoDb, Express.js, React, Node.js.**<br>
- **:zap: MovieWorld- React, Node.js, .**<br>
+ **:zap: Building a portfolio: www.cepeda.se - HTML5, CSS & JavaScript, Firebase, API, Wordpress & Xampp**<br>
+ **:zap: Pottery Shop: MongoDb, Express.js, React, Node.js.**<br>
+ **:zap: MovieWorld: React, Node.js**<br>
   **:zap: Memory Game: Date & Localstorage.**<br>
-    **:zap: Quiz App: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
+    **:zap: MemoryShop: MongoDb, React, MUI library, Next.js, **<br>
       **:zap: Star Wars Game - Phaser framework.**<br>
         **:zap: WeatherAPI - Open API.**<br>
   
 ## :mechanical_arm: Skills [in development]
- **:zap: Web Development:  HTML5 / CSS / JavaScript / Node.js / React /  Next.js / Express.js  /  Firebase / Wordpress /  APIs / Xampp   <br>      
-      **:zap:Design Tools:    UX/UI /   Figma  / Typhography         <br>           
+ **:zap: Web Development:  HTML5 / CSS / JavaScript / Node.js / React /  Next.js / Express.js  / Firebase / Wordpress /  APIs / Xampp / GIT  GITHUB**   <br>  
+ **:zap: Agile Software Development: Scrum / Kanban** <br>
+      **:zap:Design Tools: UX/UI /   Figma  / Typhography**        <br>           
           **: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics**
           
  ## :clinking_glasses: Collaborations
