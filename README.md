@@ -18,10 +18,13 @@
       **:zap: Star Wars Game - Phaser framework.**<br>
         **:zap: WeatherAPI - Open API.**<br>
   
-## :mechanical_arm: Skills 
- **:zap: Web Development:HTML, CSS, JavaScript / Node.JS, Phaser, React / Firebase, API. (basics)          
- :zap: Design Tools: Figma / Typhography, Color Schemes & Layouts / Adobe PS, Adobe AI. (intermediate)        
- :zap: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics.**
+## :mechanical_arm: Skills [in development]
+ **:zap: Web Development:           Design Tools:                    Pedagogy & Didactics:
+     HTML5 / CSS / JavaScript,          UX/UI                     Learning Theories & Practises
+         Node.js / React                Figma                     Team Building & Team Dynamics
+      Next.js / Express.js            Typhography 
+     Firebase / Wordpress         Color Schemes & Layouts
+        APIs / Xampp       **
             
  ## :handshake: Collaborations
   **:zap: I'm super interested in any collaboration in coding, design or education with a digital twist!**<br>
