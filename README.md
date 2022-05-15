@@ -19,10 +19,10 @@
         **:zap: WeatherAPI - Open API.**<br>
   
 ## :mechanical_arm: Skills [in development]
- **:zap: Web Development:  HTML5 / CSS / JavaScript / Node.js / React /  Next.js / Express.js  / Firebase / Wordpress /  APIs / Xampp / GIT  GITHUB**   <br>  
+ **:zap: Web Development:  HTML5 / CSS / JavaScript / Node.js / React /  Next.js / Express.js  / Firebase / Wordpress /  APIs / Xampp / GIT  GITHUB**  
  **:zap: Agile Software Development: Scrum / Kanban** <br>
-      **:zap:Design Tools: UX/UI /   Figma  / Typhography**        <br>           
-          **: Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics**
+      **:zap:Design Tools: UX/UI / Figma  / Typhography / Color Schemes / Layout** <br>           
+          **:zap:Pedagogy & Didactics: Learning Theories & Practises / Team Building & Team Dynamics**
           
  ## :clinking_glasses: Collaborations
   **:zap: I'm super interested in any collaboration in coding, design or education with a digital twist!**<br>
