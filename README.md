@@ -14,7 +14,7 @@
  **:zap: Pottery Shop: MongoDb, Express.js, React, Node.js.**<br>
  **:zap: MovieWorld: React, Node.js**<br>
   **:zap: Memory Game: Date & Localstorage.**<br>
-    **:zap: MemoryShop: MongoDb, React, MUI library, Next.js, **<br>
+    **:zap: MemoryShop: MongoDb, React, MUI library, Next.js**<br>
       **:zap: Star Wars Game - Phaser framework.**<br>
         **:zap: WeatherAPI - Open API.**<br>
   
