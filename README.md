@@ -10,9 +10,10 @@
 
 ## :computer:	 Projects 
 
- **:zap: Building a portfolio: www.cepeda.se - Html, CSS & JavaScript, Firebase, API.**<br>
- **:zap: Pottery Shop - MERN stack.**<br>
-  **:zap: Memory Game: https://github.com/ChrisCepeda/MemoryGame-project - Date & Localstorage.**<br>
+ **:zap: Building a portfolio: www.cepeda.se - Html, CSS & JavaScript, Firebase, API, Wordpress & Xampp**<br>
+ **:zap: Pottery Shop - MongoDb, Express.js, React, Node.js.**<br>
+ **:zap: MovieWorld- React, Node.js, .**<br>
+  **:zap: Memory Game: Date & Localstorage.**<br>
     **:zap: Quiz App: https://github.com/ChrisCepeda/Project2Quiz- Spotify API & Firebase.**<br>
       **:zap: Star Wars Game - Phaser framework.**<br>
         **:zap: WeatherAPI - Open API.**<br>
